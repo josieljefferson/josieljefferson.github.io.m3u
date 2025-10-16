@@ -1,0 +1,254 @@
+{
+  "metadata": {
+    "generated_at": "2025-10-16T16:08:12.991Z",
+    "next_update": "2025-10-16T22:08:12.991Z",
+    "generator": "generate_metadata.js",
+    "version": "2.0",
+    "file_stats": {
+      "m3u": {
+        "count": 6,
+        "totalSize": 3124505,
+        "totalSizeFormatted": "2.98 MB"
+      },
+      "epg": {
+        "count": 0,
+        "totalSize": 0,
+        "totalSizeFormatted": "0 Bytes"
+      },
+      "pdf": {
+        "count": 0,
+        "totalSize": 0,
+        "totalSizeFormatted": "0 Bytes"
+      },
+      "word": {
+        "count": 0,
+        "totalSize": 0,
+        "totalSizeFormatted": "0 Bytes"
+      },
+      "excel": {
+        "count": 0,
+        "totalSize": 0,
+        "totalSizeFormatted": "0 Bytes"
+      },
+      "powerpoint": {
+        "count": 0,
+        "totalSize": 0,
+        "totalSizeFormatted": "0 Bytes"
+      },
+      "image": {
+        "count": 0,
+        "totalSize": 0,
+        "totalSizeFormatted": "0 Bytes"
+      },
+      "video": {
+        "count": 0,
+        "totalSize": 0,
+        "totalSizeFormatted": "0 Bytes"
+      },
+      "audio": {
+        "count": 0,
+        "totalSize": 0,
+        "totalSizeFormatted": "0 Bytes"
+      },
+      "archive": {
+        "count": 3,
+        "totalSize": 2765023,
+        "totalSizeFormatted": "2.64 MB"
+      },
+      "text": {
+        "count": 1,
+        "totalSize": 40,
+        "totalSizeFormatted": "40 Bytes"
+      },
+      "code": {
+        "count": 3,
+        "totalSize": 19602,
+        "totalSizeFormatted": "19.14 KB"
+      },
+      "other": {
+        "count": 0,
+        "totalSize": 0,
+        "totalSizeFormatted": "0 Bytes"
+      }
+    },
+    "total_files": 13,
+    "total_size": 5909170,
+    "total_size_formatted": "5.64 MB",
+    "changes_since_last_update": {
+      "changed_files": 0,
+      "removed_files": 0,
+      "new_files": 13
+    }
+  },
+  "files": [
+    {
+      "name": "deployment.py",
+      "type": "code",
+      "size": 3284,
+      "sizeFormatted": "3.21 KB",
+      "updated": "2025-10-16T16:07:50.381Z",
+      "created": "2025-10-16T16:07:50.381Z",
+      "hash": "9f58abb18665591720c0af41869ba905",
+      "description": "Arquivo de Código: Deployment",
+      "download_url": "https://raw.githubusercontent.com/josieljefferson/josieljefferson.github.io.m3u/main/deployment.py",
+      "raw_url": "https://github.com/josieljefferson/josieljefferson.github.io.m3u/raw/main/deployment.py",
+      "github_url": "https://github.com/josieljefferson/josieljefferson.github.io.m3u/blob/main/deployment.py"
+    },
+    {
+      "name": "downloads_files.py",
+      "type": "code",
+      "size": 3595,
+      "sizeFormatted": "3.51 KB",
+      "updated": "2025-10-16T16:07:50.381Z",
+      "created": "2025-10-16T16:07:50.381Z",
+      "hash": "dad47c74c858a38151d6921f55453877",
+      "description": "Arquivo de Código: Downloads Files",
+      "download_url": "https://raw.githubusercontent.com/josieljefferson/josieljefferson.github.io.m3u/main/downloads_files.py",
+      "raw_url": "https://github.com/josieljefferson/josieljefferson.github.io.m3u/raw/main/downloads_files.py",
+      "github_url": "https://github.com/josieljefferson/josieljefferson.github.io.m3u/blob/main/downloads_files.py"
+    },
+    {
+      "name": "epgbrasil.m3u",
+      "type": "m3u",
+      "size": 639053,
+      "sizeFormatted": "624.08 KB",
+      "updated": "2025-10-16T16:08:00.714Z",
+      "created": "2025-10-16T16:08:00.706Z",
+      "hash": "7b668b051372169587fc0fe41958d64f",
+      "description": "Playlist M3U: Epgbrasil",
+      "download_url": "https://raw.githubusercontent.com/josieljefferson/josieljefferson.github.io.m3u/main/epgbrasil.m3u",
+      "raw_url": "https://github.com/josieljefferson/josieljefferson.github.io.m3u/raw/main/epgbrasil.m3u",
+      "github_url": "https://github.com/josieljefferson/josieljefferson.github.io.m3u/blob/main/epgbrasil.m3u"
+    },
+    {
+      "name": "epgbrasil.xml.gz",
+      "type": "archive",
+      "size": 712942,
+      "sizeFormatted": "696.23 KB",
+      "updated": "2025-10-16T16:08:02.953Z",
+      "created": "2025-10-16T16:08:02.944Z",
+      "hash": "e9626289a9b517f3042cafb49660218f",
+      "description": "Arquivo Compactado: Epgbrasil.Xml",
+      "download_url": "https://raw.githubusercontent.com/josieljefferson/josieljefferson.github.io.m3u/main/epgbrasil.xml.gz",
+      "raw_url": "https://github.com/josieljefferson/josieljefferson.github.io.m3u/raw/main/epgbrasil.xml.gz",
+      "github_url": "https://github.com/josieljefferson/josieljefferson.github.io.m3u/blob/main/epgbrasil.xml.gz"
+    },
+    {
+      "name": "epgbrasilportugal.m3u",
+      "type": "m3u",
+      "size": 6875,
+      "sizeFormatted": "6.71 KB",
+      "updated": "2025-10-16T16:08:04.095Z",
+      "created": "2025-10-16T16:08:04.095Z",
+      "hash": "207e49c80376e14932092956a951214a",
+      "description": "Playlist M3U: Epgbrasilportugal",
+      "download_url": "https://raw.githubusercontent.com/josieljefferson/josieljefferson.github.io.m3u/main/epgbrasilportugal.m3u",
+      "raw_url": "https://github.com/josieljefferson/josieljefferson.github.io.m3u/raw/main/epgbrasilportugal.m3u",
+      "github_url": "https://github.com/josieljefferson/josieljefferson.github.io.m3u/blob/main/epgbrasilportugal.m3u"
+    },
+    {
+      "name": "epgbrasilportugal.xml.gz",
+      "type": "archive",
+      "size": 104915,
+      "sizeFormatted": "102.46 KB",
+      "updated": "2025-10-16T16:08:08.892Z",
+      "created": "2025-10-16T16:08:08.889Z",
+      "hash": "f65a413257e331c32fdd3456a5998f4d",
+      "description": "Arquivo Compactado: Epgbrasilportugal.Xml",
+      "download_url": "https://raw.githubusercontent.com/josieljefferson/josieljefferson.github.io.m3u/main/epgbrasilportugal.xml.gz",
+      "raw_url": "https://github.com/josieljefferson/josieljefferson.github.io.m3u/raw/main/epgbrasilportugal.xml.gz",
+      "github_url": "https://github.com/josieljefferson/josieljefferson.github.io.m3u/blob/main/epgbrasilportugal.xml.gz"
+    },
+    {
+      "name": "epgportugal.m3u",
+      "type": "m3u",
+      "size": 2262390,
+      "sizeFormatted": "2.16 MB",
+      "updated": "2025-10-16T16:08:10.050Z",
+      "created": "2025-10-16T16:08:09.959Z",
+      "hash": "c69bee8a34afc9acd10f99436027bc46",
+      "description": "Playlist M3U: Epgportugal",
+      "download_url": "https://raw.githubusercontent.com/josieljefferson/josieljefferson.github.io.m3u/main/epgportugal.m3u",
+      "raw_url": "https://github.com/josieljefferson/josieljefferson.github.io.m3u/raw/main/epgportugal.m3u",
+      "github_url": "https://github.com/josieljefferson/josieljefferson.github.io.m3u/blob/main/epgportugal.m3u"
+    },
+    {
+      "name": "epgportugal.xml.gz",
+      "type": "archive",
+      "size": 1947166,
+      "sizeFormatted": "1.86 MB",
+      "updated": "2025-10-16T16:08:11.851Z",
+      "created": "2025-10-16T16:08:11.837Z",
+      "hash": "72b7e0e1a141357aab4b96992d7753b0",
+      "description": "Arquivo Compactado: Epgportugal.Xml",
+      "download_url": "https://raw.githubusercontent.com/josieljefferson/josieljefferson.github.io.m3u/main/epgportugal.xml.gz",
+      "raw_url": "https://github.com/josieljefferson/josieljefferson.github.io.m3u/raw/main/epgportugal.xml.gz",
+      "github_url": "https://github.com/josieljefferson/josieljefferson.github.io.m3u/blob/main/epgportugal.xml.gz"
+    },
+    {
+      "name": "playlist.m3u",
+      "type": "m3u",
+      "size": 8122,
+      "sizeFormatted": "7.93 KB",
+      "updated": "2025-10-16T16:08:12.250Z",
+      "created": "2025-10-16T16:08:12.249Z",
+      "hash": "36f852b1f366822654c67cbb22914e41",
+      "description": "Playlist M3U: Playlist",
+      "download_url": "https://raw.githubusercontent.com/josieljefferson/josieljefferson.github.io.m3u/main/playlist.m3u",
+      "raw_url": "https://github.com/josieljefferson/josieljefferson.github.io.m3u/raw/main/playlist.m3u",
+      "github_url": "https://github.com/josieljefferson/josieljefferson.github.io.m3u/blob/main/playlist.m3u"
+    },
+    {
+      "name": "playlists.m3u",
+      "type": "m3u",
+      "size": 107597,
+      "sizeFormatted": "105.08 KB",
+      "updated": "2025-10-16T16:08:12.455Z",
+      "created": "2025-10-16T16:08:12.452Z",
+      "hash": "aa955202e3534e2e15624452d98fb8c1",
+      "description": "Playlist M3U: Playlists",
+      "download_url": "https://raw.githubusercontent.com/josieljefferson/josieljefferson.github.io.m3u/main/playlists.m3u",
+      "raw_url": "https://github.com/josieljefferson/josieljefferson.github.io.m3u/raw/main/playlists.m3u",
+      "github_url": "https://github.com/josieljefferson/josieljefferson.github.io.m3u/blob/main/playlists.m3u"
+    },
+    {
+      "name": "playlists.py",
+      "type": "code",
+      "size": 12723,
+      "sizeFormatted": "12.42 KB",
+      "updated": "2025-10-16T16:07:50.382Z",
+      "created": "2025-10-16T16:07:50.382Z",
+      "hash": "e5e9bd165d5cd6e0bc4279965ea3372f",
+      "description": "Arquivo de Código: Playlists",
+      "download_url": "https://raw.githubusercontent.com/josieljefferson/josieljefferson.github.io.m3u/main/playlists.py",
+      "raw_url": "https://github.com/josieljefferson/josieljefferson.github.io.m3u/raw/main/playlists.py",
+      "github_url": "https://github.com/josieljefferson/josieljefferson.github.io.m3u/blob/main/playlists.py"
+    },
+    {
+      "name": "pornstars.m3u",
+      "type": "m3u",
+      "size": 100468,
+      "sizeFormatted": "98.11 KB",
+      "updated": "2025-10-16T16:08:12.842Z",
+      "created": "2025-10-16T16:08:12.839Z",
+      "hash": "45b740084f4a42583aef616a5fffe74e",
+      "description": "Playlist M3U: Pornstars",
+      "download_url": "https://raw.githubusercontent.com/josieljefferson/josieljefferson.github.io.m3u/main/pornstars.m3u",
+      "raw_url": "https://github.com/josieljefferson/josieljefferson.github.io.m3u/raw/main/pornstars.m3u",
+      "github_url": "https://github.com/josieljefferson/josieljefferson.github.io.m3u/blob/main/pornstars.m3u"
+    },
+    {
+      "name": "requirements.txt",
+      "type": "text",
+      "size": 40,
+      "sizeFormatted": "40 Bytes",
+      "updated": "2025-10-16T16:07:50.382Z",
+      "created": "2025-10-16T16:07:50.382Z",
+      "hash": "f1094fb6d944eb6aa988b08541431788",
+      "description": "Arquivo de Texto: Requirements",
+      "download_url": "https://raw.githubusercontent.com/josieljefferson/josieljefferson.github.io.m3u/main/requirements.txt",
+      "raw_url": "https://github.com/josieljefferson/josieljefferson.github.io.m3u/raw/main/requirements.txt",
+      "github_url": "https://github.com/josieljefferson/josieljefferson.github.io.m3u/blob/main/requirements.txt"
+    }
+  ]
+}
