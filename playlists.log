@@ -1,0 +1,36 @@
+2025-12-18 03:54:41,944 - INFO - Limpando arquivos antigos em /home/runner/work/josieljefferson.github.io.m3u/josieljefferson.github.io.m3u...
+2025-12-18 03:54:41,944 - INFO - Iniciando downloads...
+2025-12-18 03:54:41,945 - INFO - Tentativa 1 de 3: Baixando de: http://m3u4u.com/m3u/3wk1y24kx7uzdevxygz7
+2025-12-18 03:54:41,945 - INFO - Tentativa 1 de 3: Baixando de: http://m3u4u.com/m3u/782dyqdrqkh1xegen4zp
+2025-12-18 03:54:41,946 - INFO - Tentativa 1 de 3: Baixando de: http://m3u4u.com/m3u/jq2zy9epr3bwxmgwyxr5
+2025-12-18 03:54:41,946 - INFO - Tentativa 1 de 3: Baixando de: https://gitlab.com/josieljefferson12/playlists/-/raw/main/PiauiTV.m3u
+2025-12-18 03:54:41,947 - INFO - Tentativa 1 de 3: Baixando de: https://gitlab.com/josieljefferson12/playlists/-/raw/main/m3u4u_proton.me.m3u
+2025-12-18 03:54:42,461 - INFO - Download concluído: /home/runner/work/josieljefferson.github.io.m3u/josieljefferson.github.io.m3u/m3u@proton.me.m3u (4700379 bytes)
+2025-12-18 03:54:42,471 - INFO - Hash MD5 do arquivo: 17e34181bba3a93ed726df4bc76b9a9c
+2025-12-18 03:54:42,471 - INFO - Tentativa 1 de 3: Baixando de: https://gitlab.com/josieljefferson12/playlists/-/raw/main/playlist.m3u
+2025-12-18 03:54:42,473 - INFO - Download concluído: /home/runner/work/josieljefferson.github.io.m3u/josieljefferson.github.io.m3u/PiauiTV.m3u (76851 bytes)
+2025-12-18 03:54:42,473 - INFO - Hash MD5 do arquivo: ed19d1bee8112f753504aab432876025
+2025-12-18 03:54:42,474 - INFO - Tentativa 1 de 3: Baixando de: https://gitlab.com/josielluz/playlists/-/raw/main/playlists.m3u
+2025-12-18 03:54:42,660 - INFO - Download concluído: /home/runner/work/josieljefferson.github.io.m3u/josieljefferson.github.io.m3u/playlists.m3u (107555 bytes)
+2025-12-18 03:54:42,661 - INFO - Hash MD5 do arquivo: 3114d823758c4d5391acd0714d83bb8c
+2025-12-18 03:54:42,661 - INFO - Tentativa 1 de 3: Baixando de: https://gitlab.com/josieljefferson12/playlists/-/raw/main/pornstars.m3u
+2025-12-18 03:54:42,763 - INFO - Download concluído: /home/runner/work/josieljefferson.github.io.m3u/josieljefferson.github.io.m3u/playlist.m3u (8080 bytes)
+2025-12-18 03:54:42,763 - INFO - Hash MD5 do arquivo: 5e4f576e8ce1ee516c916d59ed08a851
+2025-12-18 03:54:42,763 - INFO - Tentativa 1 de 3: Baixando de: http://m3u4u.com/epg/3wk1y24kx7uzdevxygz7
+2025-12-18 03:54:42,954 - INFO - Download concluído: /home/runner/work/josieljefferson.github.io.m3u/josieljefferson.github.io.m3u/epgbrasilportugal.m3u (6833 bytes)
+2025-12-18 03:54:42,955 - INFO - Hash MD5 do arquivo: 2b8d239a20f299fbb89cf6cc8933170f
+2025-12-18 03:54:42,955 - INFO - Tentativa 1 de 3: Baixando de: http://m3u4u.com/epg/782dyqdrqkh1xegen4zp
+2025-12-18 03:54:42,969 - INFO - Download concluído: /home/runner/work/josieljefferson.github.io.m3u/josieljefferson.github.io.m3u/pornstars.m3u (100426 bytes)
+2025-12-18 03:54:42,969 - INFO - Hash MD5 do arquivo: ed9b31dbe857f86e7df7a0a4e4ecd448
+2025-12-18 03:54:42,969 - INFO - Tentativa 1 de 3: Baixando de: http://m3u4u.com/epg/jq2zy9epr3bwxmgwyxr5
+2025-12-18 03:54:42,989 - INFO - Download concluído: /home/runner/work/josieljefferson.github.io.m3u/josieljefferson.github.io.m3u/epgbrasil.m3u (639011 bytes)
+2025-12-18 03:54:42,990 - INFO - Hash MD5 do arquivo: b45a4ecb7e9e16b774d737233baa4560
+2025-12-18 03:54:43,040 - INFO - Download concluído: /home/runner/work/josieljefferson.github.io.m3u/josieljefferson.github.io.m3u/epgportugal.m3u (2262348 bytes)
+2025-12-18 03:54:43,043 - INFO - Hash MD5 do arquivo: fce788edd736f5407b18f61966f41949
+2025-12-18 03:54:43,857 - INFO - Download concluído: /home/runner/work/josieljefferson.github.io.m3u/josieljefferson.github.io.m3u/epgbrasil.xml.gz (841155 bytes)
+2025-12-18 03:54:43,858 - INFO - Hash MD5 do arquivo: 1912da80c882dd04e020cd431accf5a0
+2025-12-18 03:54:43,933 - INFO - Download concluído: /home/runner/work/josieljefferson.github.io.m3u/josieljefferson.github.io.m3u/epgportugal.xml.gz (1976797 bytes)
+2025-12-18 03:54:43,936 - INFO - Hash MD5 do arquivo: 41f75daa285ee49623f6aa25a93696fe
+2025-12-18 03:54:44,251 - INFO - Download concluído: /home/runner/work/josieljefferson.github.io.m3u/josieljefferson.github.io.m3u/epgbrasilportugal.xml.gz (109940 bytes)
+2025-12-18 03:54:44,252 - INFO - Hash MD5 do arquivo: 4def55222599bd7ab86accb08f09c2c3
+2025-12-18 03:54:44,252 - INFO - Downloads concluídos. Sucessos: 11, Falhas: 0
